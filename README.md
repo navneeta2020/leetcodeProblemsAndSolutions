@@ -12,3 +12,4 @@ Move Zeroes Problem : https://leetcode.com/problems/move-zeroes/
 Reverse Word in a String : https://leetcode.com/problems/reverse-words-in-a-string-iii/
 Middle Node of the linked list : https://leetcode.com/problems/middle-of-the-linked-list/
 Remove nth node from the last in a linked list : https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+Length of the longest substring without repeating characters : https://leetcode.com/problems/longest-substring-without-repeating-characters/
